@@ -1,2 +1,2 @@
-# my_manim_projects
-Personal presentation
+# My Manim Projects
+Personal repo for presentation slides.
